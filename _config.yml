@@ -1,2 +1,36 @@
-name: Faye Wong
-markdown: kramdown
+# Site Settings
+title:               Ms Wong
+name:                "Ms Wong"
+tagline:             迷途中的小蘑菇
+description:         "The blog of Faye"
+baseurl:            #"/Lagrange"
+url:                 "chaosgsc.com"
+github:
+  url:               #"https://lenpaul.github.io/Lagrange"
+author:
+  name:              "Mr Darcy"
+  email:             "fayewong1991@gmail.com"
+  github:            "Darcygsc"
+  facebook:          ""
+  telegram:          ""
+  spotify:           ""
+  weixin:            "http://weibo.com/p/1005051783389073/home"
+  weibo:             ""
+  rss:               ""
+navigation:
+- title: About
+  url: /about
+- title: Writings
+  url: /writings
+
+paginate:            5
+disqus:              #"your-disqus"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:
+  - jekyll-sitemap
+
+gems: [jekyll-paginate]
