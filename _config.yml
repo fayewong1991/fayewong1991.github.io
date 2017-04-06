@@ -33,4 +33,4 @@ permalink:           none
 gems:
   - jekyll-sitemap
 
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
