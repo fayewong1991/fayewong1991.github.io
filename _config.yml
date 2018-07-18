@@ -1,22 +1,25 @@
 # Site Settings
-title:               Ms Wong
-name:                "Ms Wong"
-tagline:             迷途中的小蘑菇
+title:               Ms Faye
+name:                "Ms Faye"
+tagline:             veni vidi vici
 description:         "The blog of Faye"
 baseurl:            #"/Lagrange"
 url:                 "chaosgsc.com"
 github:
   url:               #"https://lenpaul.github.io/Lagrange"
 author:
-  name:              "Mr Darcy"
+  name:              "Ms Faye"
   email:             "fayewong1991@gmail.com"
+  twitter:           "Ssss74642806"
+  instagram:         "acehhhhty"
   github:            "Darcygsc"
   facebook:          ""
   telegram:          ""
   spotify:           ""
-  weixin:            "http://weibo.com/p/1005051783389073/home"
+  weixin:            ""
   weibo:             ""
   rss:               ""
+  dribbble:          "Darcyy"
 navigation:
 - title: About
   url: /about
