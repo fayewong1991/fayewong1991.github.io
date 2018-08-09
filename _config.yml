@@ -4,22 +4,18 @@ name:                "Ms Faye"
 tagline:             veni vidi vici
 description:         "The blog of Faye"
 baseurl:            #"/Lagrange"
-url:                 "chaosgsc.com"
 github:
   url:               #"https://lenpaul.github.io/Lagrange"
 author:
   name:              "Ms Faye"
   email:             "fayewong1991@gmail.com"
-  twitter:           "Ssss74642806"
-  instagram:         "acehhhhty"
-  github:            "Darcygsc"
+  github:            "fayewong1991"
   facebook:          ""
   telegram:          ""
   spotify:           ""
   weixin:            ""
   weibo:             ""
   rss:               ""
-  dribbble:          "Darcyy"
 navigation:
 - title: About
   url: /about
@@ -36,4 +32,4 @@ permalink:           none
 gems:
   - jekyll-sitemap
 
-#gems: [jekyll-paginate]
+gems: [jekyll-paginate]
