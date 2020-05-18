@@ -3,9 +3,9 @@ title:               Ms Faye
 name:                "Ms Faye"
 tagline:             veni vidi vici
 description:         "The blog of Faye"
-baseurl:            #"/Lagrange"
+baseurl:            #"/"
 github:
-  url:               #"https://lenpaul.github.io/Lagrange"
+  url:               #"https://github.com/fayewong1991"
 author:
   name:              "Ms Faye"
   email:             "fayewong1991@gmail.com"
