@@ -5,7 +5,7 @@ subtitle:   ""
 date:       2019-02-06
 author:     "Faye"
 tags:
-    - LeetCode
+    - vue
 ---
 
 vue入门

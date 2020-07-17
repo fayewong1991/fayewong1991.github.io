@@ -5,7 +5,7 @@ subtitle:   ""
 date:       2018-09-12
 author:     "Faye"
 tags:
-    - LeetCode
+    - Javascript
 ---
 
 #### how-to-learn-vue代码可以优化的地方
